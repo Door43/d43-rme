@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rme:home|Door43 (rme)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rme|d43-rme repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rme/archive/master.zip|d43-rme.zip]]
+
+**Recent Changes**
+{{changes>ns = rme}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rme|Ethnologue data]]
+
